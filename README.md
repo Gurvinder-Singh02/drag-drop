@@ -47,3 +47,5 @@ categories.forEach(category => {
 ```
 
 Customize styles and add more logic as needed for your specific use case.
+
+Created as part of Cohort 3.0 | shoutout to @harkirat
